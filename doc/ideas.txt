@@ -1,0 +1,16 @@
+ALONE
+---------
+
+
+- only one player in the game
+- survival rpg
+
+- status effects (cold, hunger, thirst)
+
+- enemies
+
+- day/night cycle
+
+
+low res
+4 colors per block of 8x8 pixels
